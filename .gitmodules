@@ -1,0 +1,18 @@
+[submodule "platform-core-backend"]
+	path = platform-core-backend
+	url = https://github.com/AlexandruPrimac/platform-core-backend.git
+[submodule "platform-core-frontend"]
+	path = platform-core-frontend
+	url = https://github.com/AlexandruPrimac/platform-core-frontend.git
+[submodule "connect4-backend"]
+	path = connect4-backend
+	url = https://github.com/AlexandruPrimac/connect4-backend.git
+[submodule "connect4-frontend"]
+	path = connect4-frontend
+	url = https://github.com/AlexandruPrimac/connect4-frontend.git
+[submodule "telemetry"]
+	path = telemetry
+	url = https://github.com/AlexandruPrimac/telemetry.git
+[submodule "chatbot"]
+	path = chatbot
+	url = https://github.com/AlexandruPrimac/chatbot.git
